@@ -8,7 +8,7 @@ In particular we implement here two specific persistence functions we called ste
 
 ## Just for the curious 
 
-See [slideshow on persistent hubs (UMI-SIMAI-PTM joint meeting Wroclaw-2018)](https://gitlab.com/mattia.bergomi/persistent_hubs_slideshow) for further details.
+See [slideshow on persistent hubs (UMI-SIMAI-PTM joint meeting Wroclaw-2018)](https://github.com/MGBergomi/persistent_hubs_slideshow) for further details.
 
 ## Examples
 
